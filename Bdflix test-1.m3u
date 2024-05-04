@@ -21,3 +21,6 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Bangla Vision"tvg-group="Bangladesh TV" tvg-logo="",Bangla Vision
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjQgOToxMzoyMiBQTSZoYXNoX3ZhbHVlPXNMdVA2YW5VTVFlRFJtYWcwOEFHeHc9PSZ2YWxpZG1pbnV0ZXM9NDA=
+
+#EXTINF:-1 tvg-logo=""group-title="Bangladesh TV",Duronto TV
+http://cdn01.palki.tv/live/Duronto-M/index.m3u8
