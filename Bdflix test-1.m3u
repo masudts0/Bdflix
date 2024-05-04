@@ -18,3 +18,6 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Jamuna TV"tvg-group="Bangladesh News" tvg-logo="",Jamuna TV
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Ekattor Tv"tvg-group="Bangladesh News" tvg-logo="",Ekattor TV
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
