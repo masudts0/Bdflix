@@ -123,9 +123,6 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-40 tvg-logo="https://i.ibb.co/vw1MS9R/20240427-171803.jpg"group-title="",Star Jalsha 4k
 http://xtv.ooo:8080/Sehrish/12345/245898
 
-#EXTINF:-40 tvg-logo="https://i.ibb.co/hZyNcth/20240428-030126.png"group-title="",Star Jalsha HD
-http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
-
 #EXTINF:-41 tvg-logo="#EXTINF:-40 tvg-logo="https://i.ibb.co/dQ7fsJf/20240428-025157.jpg"group-title="",Zee Bangla HD
 http://xtv.ooo:8080/Sehrish/12345/245893
 
