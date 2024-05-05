@@ -99,9 +99,6 @@ http://cdn01.palki.tv/live/BanglaTV-M/index.m3u8
 #EXTINF:-32 tvg-logo="https://i.ibb.co/kM3S8gH/image-search-1713978883710.png"group-title="",Duronto Tv
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 
-#EXTINF:-33 tvg-logo="https://i.ibb.co/p4QC6fx/image-search-1713978905900.png"group-title="",Nagorik Tv
-http://cdn01.palki.tv/live/NagorikTV-M/index.m3u8
-
 #EXTINF:-34 tvg-logo="https://i.ibb.co/kgv2vGF/image-search-1714013018876.jpg"group-title="",Ananda Tv
 http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 
@@ -138,16 +135,10 @@ http://xtv.ooo:8080/Sehrish/12345/245989
 #EXTINF:-45 tvg-logo="https://i.ibb.co/zRKxWnm/image-search-1713980037798.jpg"group-title="",Entar 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
-#EXTINF:-47 tvg-logo="https://i.ibb.co/5c1ZgFh/image-search-1713979248981.png"group-title="",Jalsa Moves HD
-http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
-
 #EXTINF:-50 tvg-logo="https://i.ibb.co/kGkhrcp/image-search-1713979365243.png"group-title="",Sonic
 
 #EXTINF:-55 tvg-logo="https://i.ibb.co/42Yw1qR/IMG-20240320-115701.jpg"group-title="",Kids cartoon
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
-
-#EXTINF:-52 tvg-logo="https://i.ibb.co/Cm4fNnV/image-search-1713979415141.png"group-title="",Cartoon Network HD
-https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5
 
 #EXTINF:-53 tvg-logo="https://i.ibb.co/NxGyd12/image-search-1713979436584.png"group-title="",Discovery Kids
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3u8
