@@ -29,7 +29,7 @@ http://cdn01.palki.tv/live/NTV-M/index.m3u8
 #EXTINF:-1 tvg-id="ATN Bangla"tvg-group="News" tvg-logo="",ATN Bangla
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjQgOToxNzowMiBQTSZoYXNoX3ZhbHVlPUdicG4yVWhPMDhranJIUU4yRWRMTFE9PSZ2YWxpZG1pbnV0ZXM9ND
 
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh TV",Boishaki Tv
+#EXTINF:-1 tvg-logo="Boishakhi Tv" group-title="Bangladesh TV",Boishaki Tv
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh TV",Colors Bangla
@@ -46,5 +46,5 @@ https://mtlivestream.site/asian/ytlive/index.m3u8
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh TV",RTv
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh TV",RTV
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
