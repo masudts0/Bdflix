@@ -40,3 +40,7 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh TV",Asian Tv
 https://mtlivestream.site/asian/ytlive/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh TV",SA Tv
+https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
