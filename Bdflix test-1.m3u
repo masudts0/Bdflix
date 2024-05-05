@@ -151,13 +151,6 @@ http://xtv.ooo:8080/Sehrish/12345/245959
 #EXTINF:-55 tvg-logo="https://i.ibb.co/42Yw1qR/IMG-20240320-115701.jpg"group-title="",Kids cartoon
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
-#EXTINF:-51 tvg-logo="https://i.ibb.co/7b5WJ7c/20240430-200700.png"group-title="KIDS",Jugnu Kids Bangla
-https://ythls.armelin.one/channel/UCWyfOC7fLxYch3IkQ58fMrA.m3u8
-
-#EXTINF:-51 tvg-logo="https://i.ibb.co/xst5Kx5/20240430-200918.jpg"group-title="KIDS",Talking Tom
-https://ythls.armelin.one/channel/UCm3hAp1m1xlAz0ve_EKAo4g.m3u8
-
-
 #EXTINF:-52 tvg-logo="https://i.ibb.co/Cm4fNnV/image-search-1713979415141.png"group-title="",Cartoon Network HD
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5
 
@@ -183,7 +176,3 @@ http://xtv.ooo:8080/Sehrish/12345/109984
 
 
 
-move
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LhXWGXR/kung-fu-panda-four-ver5.jpg", Kung Fu Panda 4
-http://103.112.150.230/Data/disk1/movies/animation/new/Kung%20Fu%20Panda%204%20(2024)/Kung%20Fu%20Panda%204.mp4
