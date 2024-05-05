@@ -135,23 +135,12 @@ http://xtv.ooo:8080/Sehrish/12345/245895
 #EXTINF:-43 tvg-logo="https://i.ibb.co/Qdt2F6v/image-search-1713979222513.png"group-title="",Sony aath
 http://xtv.ooo:8080/Sehrish/12345/245989
 
-#EXTINF:-44 tvg-logo="https://i.ibb.co/zVgd7B3/20240430-071718.jpg"group-title="",Colors Bangla Cinema
-https://fr.tvanondo.online/sananda/video.m3u8
-
 #EXTINF:-45 tvg-logo="https://i.ibb.co/zRKxWnm/image-search-1713980037798.jpg"group-title="",Entar 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-
-#EXTINF:-46 tvg-logo="https://i.ibb.co/j4P1g9P/IMG-20240430-064226.png"group-title="",Zee Bangla Cinema 
-http://103.107.79.87:8080/CH8109HD04/tracks-v1a1/mono.m3u8
 
 #EXTINF:-47 tvg-logo="https://i.ibb.co/5c1ZgFh/image-search-1713979248981.png"group-title="",Jalsa Moves HD
 http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
 
-#EXTINF:-48 tvg-logo="https://i.ibb.co/TrB5QMt/image-search-1713979310505.png"group-title="",Sun Bangla Cinema
-https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
-
-#EXTINF:-49 tvg-logo="https://i.ibb.co/V2XNMYQ/image-search-1713979332046.png"group-title="",Nickelodeon
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Sonic_Bangla_MOB/Fallback/index.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.ibb.co/kGkhrcp/image-search-1713979365243.png"group-title="",Sonic
 
