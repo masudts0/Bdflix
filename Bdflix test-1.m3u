@@ -51,9 +51,6 @@ http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
 #EXTINF:-18 tvg-logo="https://i.ibb.co/CvWhgdq/image-search-1713978245283.png"group-title="",Somoy Tv
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-19 tvg-logo="https://i.ibb.co/NttrW6h/image-search-1713978282196.png"group-title="",Independent TV
-https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
-
 #EXTINF:-20 tvg-logo="https://i.ibb.co/YXWq4Kt/image-search-1713978311115.jpg"group-title="",Maasranga TV
 http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
 
@@ -65,9 +62,6 @@ http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 
 #EXTINF:-23 tvg-logo="https://i.ibb.co/kqQzFpB/image-search-1714012605151.jpg"group-title="",Gazi Tv
 http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
-
-#EXTINF:-24 tvg-logo="https://i.ibb.co/2qvTfn6/image-search-1713978430151.png"group-title="",Ekattor Tv
-http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-25 tvg-logo="https://i.ibb.co/VwDwmPC/image-search-1713978458022.png"group-title="",Asian Tv
 http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
