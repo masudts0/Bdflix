@@ -1,1 +1,29 @@
+#EXTM3U
 
+#EXTINF:-2 tvg-logo="https://i.ibb.co/dcs0DLB/image-search-1713977901722.png"group-title="",BTV
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-3 tvg-logo="https://i.ibb.co/DCWFbcp/image-search-1713977918896.png"group-title="",BTV World
+http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-4 tvg-logo="https://i.ibb.co/Kw9Ky36/image-search-1714009351777.png"group-title="",NTV
+https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
+
+#EXTINF:-5 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla",ATN Bangla
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-6 tvg-logo="https://i.ibb.co/prRwq9t/image-search-1714012900543.png"group-title="",News 24
+http://cdn01.palki.tv/live/News24-M/index.m3u8
+
+#EXTINF:-7 tvg-logo="https://i.ibb.co/dbQdv09/20240430-071817.jpg"group-title="",Channel I
+http://goomflix.xyz/wp-content/plugins/internet-connection-status/assets/beep.mp3
+
+#EXTINF:-8 tvg-logo="https://i.ibb.cok8MT30Q/image-search-1713977978851.png"group-title="",Ekushey Tv
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-9 tvg-logo="https://i.ibb.co/2Z5ddCk/image-search-1714012840495.jpg"group-title="",Al Quran Redio
+http://66.45.232.131:9994/;stream.mp3
+
+#EXTINF:-10 tvg-logo="https://i.ibb.co/jfcMK4H/image-search-1713977726315.png"group-title="",RTV
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
