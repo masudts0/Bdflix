@@ -152,10 +152,11 @@ http://xtv.ooo:8080/Sehrish/12345/109983
 #EXTINF:-57 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Star Sports 2
 http://xtv.ooo:8080/Sehrish/12345/109984
 
-#EXTINF:-1 tvg-id="71TV" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",71 TV
+#EXTINF:-58 tvg-id="71TV" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",71 TV
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
-
+#EXTINF:-59 group-title="Music" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lYbTbvSwnfhpFV8qVUtpksrKJlthZTLi0ap9H_fcznABI=s176-c-k-c0x00ffffff-no-rj" tvg-id="", RTV Music
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714994262/ei/9mc4ZvCTKuSRsfIPgsSo6AM/ip/52.238.24.177/id/5y0O7hfPV-s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118566/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-4gpKvDuB6SlcpwLJfKSK8EELaxod3Kv32OlwuaiWyL7u1D9dsb7jUn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKyWySQJTYTyXEhj7KnqU_DrUmXt5vqYHG9wf9zudC4dAiAlk9m7kTWxCX5z-6vT6mppkUsyqVrfBjWrgue2YrZn1g%3D%3D/file/index.m3u8
 
 
 
