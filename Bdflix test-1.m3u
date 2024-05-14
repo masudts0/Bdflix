@@ -152,9 +152,6 @@ http://xtv.ooo:8080/Sehrish/12345/109983
 #EXTINF:-57 tvg-logo="https://i.ibb.co/Fg280Bg/image-search-1713979527326.png"group-title="",Star Sports 2
 http://xtv.ooo:8080/Sehrish/12345/109984
 
-#EXTINF:-2 tvg-logo="https://i.ibb.co/RH1LngT/images-9.jpg"group-title="",T sports
-http://103.151.60.214:7444/1101/video.m3u8
-
 #EXTINF:-58 tvg-id="71TV" tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",71 TV
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
