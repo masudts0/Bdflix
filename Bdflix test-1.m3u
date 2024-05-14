@@ -96,9 +96,6 @@ http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 #EXTINF:-34 tvg-logo="https://i.ibb.co/kgv2vGF/image-search-1714013018876.jpg"group-title="",Ananda Tv
 http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 
-#EXTINF:-35 tvg-logo="https://i.ibb.co/Bjy7nPP/image-search-1713979010421.jpg"group-title="",T Sports
-https://live-cdn.tsports.com/live-02/index.m3u8
-
 #EXTINF:-36 tvg-logo="https://i.ibb.co/mtpsbsz/IMG-20240425-084651.jpg"group-title="",Nexus Tv
 http://cdn01.palki.tv/live/NexusTV-M/tracks-v1a1/mono.m3u8
 
