@@ -13,7 +13,7 @@ https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-5 tvg-logo="https://i.ibb.co/prRwq9t/image-search-1714012900543.png"group-title="",News 24
-http://cdn01.palki.tv/live/News24-M/index.m3u8
+https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
 
 #EXTINF:-6 tvg-logo="https://i.ibb.co/dbQdv09/20240430-071817.jpg"group-title="",Channel I
 https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
@@ -43,7 +43,7 @@ https://myflixbd.com/0.m3u8
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-15 tvg-logo="https://i.ibb.co/NSD4bfZ/image-search-1713978182323.png"group-title="",Mohona TV
-http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
+https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-16 tvg-logo="https://i.ibb.co/F0JcPmj/image-search-1714012726746.png"group-title="",Bijoy TV
 https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
@@ -82,7 +82,7 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-28 tvg-logo="https://i.ibb.co/9Hd3DwV/image-search-1713979940103.jpg"group-title="",Move Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
+https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
 #EXTINF:-29 tvg-logo="https://i.ibb.co/3f8H2HC/20240430-083911.png"group-title="",BBC News
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
@@ -97,7 +97,7 @@ http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 
 #EXTINF:-33 tvg-logo="https://i.ibb.co/mtpsbsz/IMG-20240425-084651.jpg"group-title="",Nexus Tv
-http://cdn01.palki.tv/live/NexusTV-M/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 
 #EXTINF:-34 tvg-logo="https://i.ibb.co/4SMw1xd/image-search-1713979090924.png"group-title="",Ekhon
 http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-v1a1/mono.m3u8
