@@ -31,6 +31,9 @@ https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=SUOXE0uPd
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=hZXl2hXfnupfBk5_njF6mA&expires=1734243807&user=811838a63b224e85b02b925b31d0fece
 
 
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg",Maasranga Tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co.com/N22Q42w/th-851263722.jpg" group-title="",ATN News
 https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=M2h12EjhZ8mD_ExQooyGrA&expires=1734249526&user=811838a63b224e85b02b925b31d0fece
