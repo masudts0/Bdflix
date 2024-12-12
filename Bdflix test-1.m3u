@@ -4,3 +4,6 @@
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=rocrCodA2mjri13O3rJEVg&expires=1734232506&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-2 tvg-logo="https://i.ibb.co.com/kXCwpM8/atn-1006546257.png" group-title="",ATN Bangla
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=FPnIt4ok6XPISYl82rZdfg&expires=1734238072&user=811838a63b224e85b02b925b31d0fece
+
+#EXTINF:-2 tvg-logo="https://i.ibb.co.com/yXzQvNr/bangla-vision-logo-1024x616-3673309039.jpg" group-title="",Bangla Vision
+https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=SUOXE0uPdb7UcWd-0pH-Lg&expires=1734243300&user=811838a63b224e85b02b925b31d0fece
