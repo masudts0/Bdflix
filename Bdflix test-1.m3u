@@ -84,3 +84,7 @@ https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=RY0vxHCEn
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co.com/XVWJGL3/th-204979710.jpg" group-title="",Zee Tv Hd
 https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=9-CZvRr2-In90WXSHGRpIg&expires=1734249318&user=811838a63b224e85b02b925b31d0fece
+
+
+#EXTINF:-2 tvg-logo="https://i.ibb.co.com/p2JBWCQ/th-244744994.jpg" group-title="",Entartain Bangla
+http://ktv.im:8080/live/122334/122334/83775.ts
