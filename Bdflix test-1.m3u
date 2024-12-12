@@ -64,3 +64,6 @@ https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=lE2WhiRVqdqxTgF
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co.com/M9X3jgk/th-2767539534.jpg" group-title="",Duronto Tv
 https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=zHPcboZevNxa6mSJ6AKy7A&expires=1734248388&user=811838a63b224e85b02b925b31d0fece
+
+#EXTINF:-2 tvg-logo="https://i.ibb.co.com/Y3vVynt/th-2710715772.jpg" group-title="",Ekattor Tv
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=67eAHj1KzpP-fy8RMMO_xw&expires=1734248597&user=811838a63b224e85b02b925b31d0fece
