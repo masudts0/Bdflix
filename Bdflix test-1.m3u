@@ -13,7 +13,7 @@ https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=FPnIt4ok6XPI
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/RFWN6GL6/BIJOY-TV-Logo-BD.png",Bijoy Tv
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/108797.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
 https://mytvbangla.com/0.m3u8
 
 
@@ -122,6 +122,9 @@ http://ktv.im:8080/live/122334/122334/83775.ts
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/fLbSDDPN/Star-Jalsha-logo-2023.png",Star Jolsha HD
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2907.ts
+
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
+http://extraott-iptv.com:88/live/0229477349/8104258135/400159618.m3u8
 
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/ItU5C2m.png",Colors Bangla HD 
