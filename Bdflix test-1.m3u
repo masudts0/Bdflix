@@ -52,3 +52,7 @@ https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=9a44qcfyqBH91
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co.com/dmJLQ86/th-1480698186.jpg" group-title="",DBC News
 https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=JTkCVFSFXoJIbpQKnNfSLA&expires=1734247729&user=811838a63b224e85b02b925b31d0fece
+
+
+#EXTINF:-2 tvg-logo="https://i.ibb.co.com/j4nCwcg/th-2897229952.jpg" group-title="",Deepto Tv
+https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=QTb68NOuy-ELcaKWpvJ9Bw&expires=1734247928&user=811838a63b224e85b02b925b31d0fece
