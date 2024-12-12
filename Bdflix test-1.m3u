@@ -2,6 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WPwMLQ8/images-1.png" group-title="",Nagorik Tv
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=rocrCodA2mjri13O3rJEVg&expires=1734232506&user=811838a63b224e85b02b925b31d0fece
+
 #EXTINF:-2 tvg-logo="https://i.ibb.co.com/kXCwpM8/atn-1006546257.png" group-title="",ATN Bangla
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=FPnIt4ok6XPISYl82rZdfg&expires=1734238072&user=811838a63b224e85b02b925b31d0fece
 
@@ -11,6 +12,10 @@ https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=SUOXE0uPd
 #EXTINF:-2 tvg-logo="https://i.ibb.co.com/bJdmcBc/th-844091194.jpg" group-title="",Boishakhi Tv
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=hZXl2hXfnupfBk5_njF6mA&expires=1734243807&user=811838a63b224e85b02b925b31d0fece
 
+
+
+#EXTINF:-2 tvg-logo="https://i.ibb.co.com/N22Q42w/th-851263722.jpg" group-title="",ATN News
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=M2h12EjhZ8mD_ExQooyGrA&expires=1734249526&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co.com/t4VrD5m/th-3412779144.jpg" group-title="",Channel 24
 https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=h3Ox8YRnISaTrkg7KA5YhQ&expires=1734244377&user=811838a63b224e85b02b925b31d0fece
