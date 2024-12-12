@@ -10,6 +10,9 @@ https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=FPnIt4ok6XPI
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/108797.m3u8
 
 
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona Tv
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/108824.m3u8
+
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co.com/yXzQvNr/bangla-vision-logo-1024x616-3673309039.jpg" group-title="",Bangla Vision
 https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=SUOXE0uPdb7UcWd-0pH-Lg&expires=1734243300&user=811838a63b224e85b02b925b31d0fece
