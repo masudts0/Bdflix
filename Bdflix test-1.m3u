@@ -14,3 +14,6 @@ https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=hZXl2hXfnu
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co.com/t4VrD5m/th-3412779144.jpg" group-title="",Channel 24
 https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=h3Ox8YRnISaTrkg7KA5YhQ&expires=1734244377&user=811838a63b224e85b02b925b31d0fece
+
+#EXTINF:-2 tvg-logo="https://i.ibb.co.com/TBx78zv/th-85628754.jpg" group-title="",N Tv
+https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=HMd7_p7lxGjwL56UTLimkA&expires=1734244811&user=811838a63b224e85b02b925b31d0fece
