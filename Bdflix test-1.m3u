@@ -27,3 +27,6 @@ https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=XkQOEglMTl5R
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co.com/RbsFXTT/th-2350039784.jpg" group-title="",Somoy Tv
 https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=PA6x1vB9FFFfF3DeO29PkA&expires=1734245926&user=811838a63b224e85b02b925b31d0fece
+
+#EXTINF:-2 tvg-logo="https://i.ibb.co.com/Pz70cRt/th-2732431056.jpg" group-title="",R Tv
+https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=rIotpgoZ0g_yXqod8zdm7A&expires=1734246004&user=811838a63b224e85b02b925b31d0fece
