@@ -89,9 +89,9 @@ https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=9-CZvRr2-In90WXS
 #EXTINF:-2 tvg-logo="https://i.ibb.co.com/p2JBWCQ/th-244744994.jpg" group-title="",Entartain Bangla
 http://ktv.im:8080/live/122334/122334/83775.ts
 
-#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/fLbSDDPN/Star-Jalsha-logo-2023.png",Star Jolsha HD
+#EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/fLbSDDPN/Star-Jalsha-logo-2023.png",Star Jolsha HD
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2907.ts
 
 
-#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.imgur.com/ItU5C2m.png",Colors Bangla HD 
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/ItU5C2m.png",Colors Bangla HD 
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
