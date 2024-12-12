@@ -45,3 +45,6 @@ https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=FH-2huizPGS92l
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co.com/fdN9Dn9/th-1835451618.jpg" group-title="",Jamuna Tv
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=8DeyCF1IwPh-6SqE32f5KA&expires=1734247334&user=811838a63b224e85b02b925b31d0fece
+
+#EXTINF:-2 tvg-logo="https://i.ibb.co.com/7JrXC8p/th-3099563470.jpg" group-title="",Channel I
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=9a44qcfyqBH913eNK0PzFg&expires=1734247526&user=811838a63b224e85b02b925b31d0fece
