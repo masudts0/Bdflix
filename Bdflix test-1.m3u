@@ -114,6 +114,8 @@ https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=RY0vxHCEn
 #EXTINF:-1 group-title="" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
 
+#EXTINF:-2 tvg-logo="https://i.ibb.co.com/fvbjjdP/th-576263306.jpg" group-title="",Sony Yay
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co.com/XVWJGL3/th-204979710.jpg" group-title="",Zee Tv Hd
 https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=9-CZvRr2-In90WXSHGRpIg&expires=1734249318&user=811838a63b224e85b02b925b31d0fece
